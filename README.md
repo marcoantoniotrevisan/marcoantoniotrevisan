@@ -1,4 +1,4 @@
-## Hello, welcome 👋
+## Welcome 👋
 I am a lawyer and a Python apprentice. I am currently interested in NLP, Machine/Deeping Learning, Data Science, and their application in the practice of law. I don't have a lot of codes and ideas yet. It's a shame. But I'm on my way.
 
 
