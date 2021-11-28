@@ -1,4 +1,5 @@
 ### Olá 👋
+Sou advogado e aprendiz de programação (Python). Estou interessado em Data Science aplicado à prática do Direito, especificamente NLP, análise de sentimento e machine learning
 
 <!--
 **marcoantoniotrevisan/marcoantoniotrevisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
