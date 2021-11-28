@@ -1,6 +1,11 @@
 ## Hello, welcome 👋
 I am a lawyer and a Python apprentice. I am currently interested in NLP, Machine/Deeping Learning, Data Science, and their application in the practice of law. I don't have a lot of codes and ideas yet. It's a shame. But I'm on my way.
 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marco-antonio-trevisan-4619172a/)](https://www.linkedin.com/in/marco-antonio-trevisan-4619172a/)
+
+
+
 <a href="https://www.linkedin.com/in/marco-antonio-trevisan-4619172a/" alt="linkedin" target="_blank">
 
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
